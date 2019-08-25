@@ -5,7 +5,6 @@
 
     @if (Auth::check())
     <h1>タスク一覧</h1>
-     
         <table class="table table-striped">
             <thead>
                 <tr>
